@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Maker from './components/maker/maker';
 function App({ authService }) {
   return (
-    <div class={styles.app}>
+    <div className={styles.app}>
       <BrowserRouter>
         <Switch>
           <Route exact path="/">
