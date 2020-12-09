@@ -11,3 +11,12 @@
   margin-bottom: 1em;
   color: makerGreen;
 }
+
+
+.editorForm{
+    display: felx;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
