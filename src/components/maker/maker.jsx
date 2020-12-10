@@ -9,7 +9,7 @@ const Maker = ({ authService }) => {
     const [cards, setCards] = useState([
         {
             id: '1',
-            name: 'jeongthoo',
+            name: 'jeonghoo',
             company: 'Samsung',
             theme: 'light',
             title: 'Software Engineer',
@@ -20,7 +20,7 @@ const Maker = ({ authService }) => {
         },
         {
             id: '2',
-            name: 'jeongthoo',
+            name: 'jeonghoo',
             company: 'Samsung',
             theme: 'light',
             title: 'Software Engineer',
